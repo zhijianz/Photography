@@ -6,7 +6,17 @@
 	- [叠加型原色](#叠加型原色)
 	- [消减型原色](#消减型原色)
 - [牛顿色环](#牛顿色环)
+	- [色环](#色环)
+	- [颜色关系](#颜色关系)
+		- [基础变化](#基础变化)
+		- [单色](#单色)
+		- [相似](#相似)
+		- [补色](#补色)
+		- [三色组](#三色组)
 - [颜色的三要素](#颜色的三要素)
+	- [色相](#色相)
+	- [饱和度](#饱和度)
+	- [明度](#明度)
 - [色温与白平衡](#色温与白平衡)
 - [参考](#参考)
 
@@ -41,7 +51,83 @@
 
 # 牛顿色环
 
+## 色环
+
+色环是将可以见光区域的颜色以圆环来表示，在1666年由`艾萨克·牛顿`首创之后一直不断演变沿用至今。
+
+![不同时期的色环](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/color-wheel-01.jpeg)
+
+
+在色环上将颜色分成了三个等级`原色、二级色、三集色`
+
+**原色**
+红、黄、蓝，这三个颜色不能通过任何其他颜色混合形成，而其他颜色都是通过这三个颜色混合而成
+
+**二级色**
+绿（黄与蓝混合）、橙（红与黄混合）、紫（蓝与红混合）
+
+**三级色**
+橙黄、橙红、红紫、蓝紫、蓝绿以及黄绿，这六种颜色都是一个原色与一个二级色混合而成，从颜色的名字就可以看出来了
+
+![色环颜色等级划分](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/color-wheel-02.jpeg)
+
+## 颜色关系
+
+### 基础变化
+
+- 减淡(Tint)，将某种颜色和白色混合
+- 加深(Shade)，将某种颜色和黑色混合
+- 变灰(Tone)，将某种颜色和灰色混合
+
+![基础变化](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/monochrome-01.png)
+
+### 单色
+
+单色指的是某种颜色经历上述所有基础变化的颜色之间的关系
+
+![单一色](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/monochrome-03.png)
+
+### 相似
+
+相似指的是在色轮上相邻的颜色，这些颜色会过渡的比较自然
+
+![相似色](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/analogous-01.png)
+
+### 补色
+
+补色指的是在色轮上处于对称位置的颜色，这种关系的颜色混合使用的时候会形成比较突出的效果。
+
+![补色](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/complementary-01.png)
+
+### 三色组
+
+三色组指的是在色环中取得三点平衡的颜色关系
+
+![三色组](http://s0-weizhifeng-net.b0.upaiyun.com/images/design/basic-color-theory/triadic-01.png)
+
+
 # 颜色的三要素
+
+## 色相
+
+色相即色彩的相貌名称，例如红色、绿色、蓝色等等称谓。色相是色彩的首要特征，是区别不同色彩最准确的标准。除黑白灰以外的其他颜色都有色相属性。色相从本质上来说是不同波长的光线进入人眼睛之后，人对此产生的不同视觉感受的一种描述。蓝色和绿色之所以能够被我们区分，正是因为蓝色和绿色对应的光线具有不同的波长。
+
+## 饱和度
+
+饱和度是指色彩的纯度，一种颜色的饱和度越高，它就越鲜艳；反之，一种颜色的饱和度越低，它就越接近于灰色。
+
+![饱和度](http://mmbiz.qpic.cn/mmbiz_png/Yf3ZyUvU9QAr2InBHV4j7nP0ojdLiaQnaxaVh5U13rNdQoWqIh5veBlbl5I6jyktc2EiayajpRLI2tSRgNbsh7nQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+
+## 明度
+
+明度即是指一种颜色的明亮程度。同一种颜色有明暗之分，例如浅蓝色和深蓝色，不同颜色之间也有明暗之分，例如黄色的明度就相对比较高，紫色的明度就相对比较低。
+
+![明度对比1](http://mmbiz.qpic.cn/mmbiz_png/Yf3ZyUvU9QDibFUYFeOMNZScPt84wMKSvN9b6fiasr2umnL6UlwHicPdgdhia9mZFDdE8mLtmDkEqFT0iaJgyhhnaeA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+
+通过颜色的三个基本属性，可以在某些具体具体的颜色空间模型中确定唯一的一个颜色
+
+![颜色空间模型](http://a0.att.hudong.com/56/56/01300000179261122969567819117.jpg)
+
 
 # 色温与白平衡
 
